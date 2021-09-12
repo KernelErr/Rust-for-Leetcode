@@ -12,4 +12,7 @@
 | 461  | 汉明距离         | 位运算   | [hamming-distance.rs](/solutions/hamming-distance.rs)        |
 | 62   | 不同路径         | 动态规划 | [unique-paths.rs](/solutions/unique-paths.rs)                |
 | 63   | 不同路径 II      | 动态规划 | [unique-paths-ii.rs](/solutions/unique-paths-ii.rs)          |
+| 64   | 最小路径和       | 动态规划 | [minimum-path-sum.rs](/solutions/minimum-path-sum.rs)        |
+| 120  | 三角形最小路径和 | 动态规划 | [triangle.rs](/solutions/triangle.rs)                        |
+| 931  | 下降路径最小和   | 动态规划 | [minimum-falling-path-sum.rs](/solutions/minimum-falling-path-sum.rs) |
 
