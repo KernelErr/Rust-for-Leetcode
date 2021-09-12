@@ -9,3 +9,7 @@
 | 编号 | 名称             | 题目类型 | 题解                                                         |
 | ---- | ---------------- | -------- | ------------------------------------------------------------ |
 | 678  | 有效的括号字符串 | 栈       | [valid-parenthesis-string.rs](/solutions/valid-parenthesis-string.rs) |
+| 461  | 汉明距离         | 位运算   | [hamming-distance.rs](/solutions/hamming-distance.rs)        |
+| 62   | 不同路径         | 动态规划 | [unique-paths.rs](/solutions/unique-paths.rs)                |
+| 63   | 不同路径 II      | 动态规划 | [unique-paths-ii.rs](/solutions/unique-paths-ii.rs)          |
+
