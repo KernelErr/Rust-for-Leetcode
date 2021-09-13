@@ -1,6 +1,6 @@
 # Rust for Leetcode
 
-[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)![Code-Quality](https://img.shields.io/badge/Code%20Quality-D-red)
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode) ![Code-Quality](https://img.shields.io/badge/Code%20Quality-D-red)
 
 本仓库用于记录我使用Rust刷Leetcode的代码，尽量做到日更。
 
@@ -15,4 +15,5 @@
 | 64   | 最小路径和       | 动态规划 | [minimum-path-sum.rs](/solutions/minimum-path-sum.rs)        |
 | 120  | 三角形最小路径和 | 动态规划 | [triangle.rs](/solutions/triangle.rs)                        |
 | 931  | 下降路径最小和   | 动态规划 | [minimum-falling-path-sum.rs](/solutions/minimum-falling-path-sum.rs) |
+| 447  | 回旋镖的数量     | 哈希表   | [number-of-boomerangs.rs](/solutions/number-of-boomerangs.rs) |
 
