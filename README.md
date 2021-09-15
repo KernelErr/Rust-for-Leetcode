@@ -19,4 +19,4 @@
 | 1289 | 下降路径最小和  II               | 动态规划 | [minimum-falling-path-sum-ii.rs](/solutions/minimum-falling-path-sum-ii.rs) |
 | 1575 | 统计所有可行路径                 | 动态规划 | [count-all-possible-routes.rs](/solutions/count-all-possible-routes.rs) |
 | 524  | 通过删除字母匹配到字典里最长单词 | 双指针   | [longest-word-in-dictionary-through-deleting.rs](/solutions/longest-word-in-dictionary-through-deleting.rs) |
-
+| 162  | 寻找峰值                         | 二分查找 | [find-peak-element.rs](/solutions/find-peak-element.rs)      |
