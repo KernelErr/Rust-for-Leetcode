@@ -20,3 +20,5 @@
 | 1575 | 统计所有可行路径                 | 动态规划 | [count-all-possible-routes.rs](/solutions/count-all-possible-routes.rs) |
 | 524  | 通过删除字母匹配到字典里最长单词 | 双指针   | [longest-word-in-dictionary-through-deleting.rs](/solutions/longest-word-in-dictionary-through-deleting.rs) |
 | 162  | 寻找峰值                         | 二分查找 | [find-peak-element.rs](/solutions/find-peak-element.rs)      |
+| 208  | 实现 Trie (前缀树)               | 前缀树   | [implement-trie-prefix-tree.rs](/solutions/implement-trie-prefix-tree.rs) |
+| 212  | 单词搜索 II                      | 回溯     | [word-search-ii.rs](/solutions/word-search-ii.rs)            |
