@@ -22,3 +22,4 @@
 | 162  | 寻找峰值                         | 二分查找 | [find-peak-element.rs](/solutions/find-peak-element.rs)      |
 | 208  | 实现 Trie (前缀树)               | 前缀树   | [implement-trie-prefix-tree.rs](/solutions/implement-trie-prefix-tree.rs) |
 | 212  | 单词搜索 II                      | 回溯     | [word-search-ii.rs](/solutions/word-search-ii.rs)            |
+| 36   | 有趣的数独                       | 数组     | [valid-sudoku.rs](/solutions/valid-sudoku.rs)                |
