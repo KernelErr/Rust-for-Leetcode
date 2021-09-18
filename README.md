@@ -26,3 +26,6 @@
 | 212  | 单词搜索 II                      | 回溯     | [word-search-ii.rs](/solutions/word-search-ii.rs)            |
 | 36   | 有趣的数独                       | 数组     | [valid-sudoku.rs](/solutions/valid-sudoku.rs)                |
 | 292  | Nim 游戏                         | 数学     | [nim-game.rs](/solutions/nim-game.rs)                        |
+| 576  | 出界的路径数                     | 动态规划 | [out-of-boundary-paths.rs](/solutions/out-of-boundary-paths.rs) |
+| 1301 | 最大得分的路径数目               | 动态规划 | [number-of-paths-with-max-score.rs](/solutions/number-of-paths-with-max-score.rs) |
+
