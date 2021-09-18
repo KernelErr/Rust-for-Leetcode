@@ -2,6 +2,8 @@
 
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode) ![Code-Quality](https://img.shields.io/badge/Code%20Quality-D-red)
 
+海上生明月，天涯共此时。祝各位中秋快乐。
+
 本仓库用于记录我使用Rust刷Leetcode的代码，尽量做到日更。
 
 ## 题目列表
@@ -23,3 +25,4 @@
 | 208  | 实现 Trie (前缀树)               | 前缀树   | [implement-trie-prefix-tree.rs](/solutions/implement-trie-prefix-tree.rs) |
 | 212  | 单词搜索 II                      | 回溯     | [word-search-ii.rs](/solutions/word-search-ii.rs)            |
 | 36   | 有趣的数独                       | 数组     | [valid-sudoku.rs](/solutions/valid-sudoku.rs)                |
+| 292  | Nim 游戏                         | 数学     | [nim-game.rs](/solutions/nim-game.rs)                        |
