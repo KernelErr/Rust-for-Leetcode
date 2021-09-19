@@ -28,4 +28,5 @@
 | 292  | Nim 游戏                         | 数学     | [nim-game.rs](/solutions/nim-game.rs)                        |
 | 576  | 出界的路径数                     | 动态规划 | [out-of-boundary-paths.rs](/solutions/out-of-boundary-paths.rs) |
 | 1301 | 最大得分的路径数目               | 动态规划 | [number-of-paths-with-max-score.rs](/solutions/number-of-paths-with-max-score.rs) |
+| 650  | 只有两个键的键盘                 | 动态规划 | [2-keys-keyboard.rs](/solutions/2-keys-keyboard.rs)          |
 
