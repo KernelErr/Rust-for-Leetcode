@@ -2,8 +2,6 @@
 
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode) ![Code-Quality](https://img.shields.io/badge/Code%20Quality-D-red)
 
-海上生明月，天涯共此时。祝各位中秋快乐。
-
 本仓库用于记录我使用Rust刷Leetcode的代码，尽量做到日更。
 
 ## 题目列表
@@ -32,4 +30,5 @@
 | 300  | 最长递增子序列                   | 动态规划 | [longest-increasing-subsequence.rs](/solutions/longest-increasing-subsequence.rs) |
 | 673  | 最长递增子序列的个数             | 动态规划 | [number-of-longest-increasing-subsequence.rs](/solutions/number-of-longest-increasing-subsequence.rs) |
 | 58   | 最后一个单词的长度               | 字符串   | [length-of-last-word.rs](/solutions/length-of-last-word.rs)  |
+| 725  | 分割链表                         | 链表     | [split-linked-list-in-parts.rs](/solutions/split-linked-list-in-parts.rs) |
 
