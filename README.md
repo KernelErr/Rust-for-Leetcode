@@ -31,4 +31,5 @@
 | 673  | 最长递增子序列的个数             | 动态规划 | [number-of-longest-increasing-subsequence.rs](/solutions/number-of-longest-increasing-subsequence.rs) |
 | 58   | 最后一个单词的长度               | 字符串   | [length-of-last-word.rs](/solutions/length-of-last-word.rs)  |
 | 725  | 分割链表                         | 链表     | [split-linked-list-in-parts.rs](/solutions/split-linked-list-in-parts.rs) |
+| 326  | 3的幂                            | 循环     | [power-of-three.rs](/solutions/power-of-three.rs)            |
 
