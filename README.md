@@ -32,4 +32,5 @@
 | 58   | 最后一个单词的长度               | 字符串   | [length-of-last-word.rs](/solutions/length-of-last-word.rs)  |
 | 725  | 分割链表                         | 链表     | [split-linked-list-in-parts.rs](/solutions/split-linked-list-in-parts.rs) |
 | 326  | 3的幂                            | 循环     | [power-of-three.rs](/solutions/power-of-three.rs)            |
+| 53   | 最大子序和                       | 动态规划 | [maximum-subarray.rs](/solutions/maximum-subarray.rs)        |
 
