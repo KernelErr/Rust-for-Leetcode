@@ -33,4 +33,6 @@
 | 725  | 分割链表                         | 链表     | [split-linked-list-in-parts.rs](/solutions/split-linked-list-in-parts.rs) |
 | 326  | 3的幂                            | 循环     | [power-of-three.rs](/solutions/power-of-three.rs)            |
 | 53   | 最大子序和                       | 动态规划 | [maximum-subarray.rs](/solutions/maximum-subarray.rs)        |
+| 72   | 编辑距离                         | 动态规划 | [edit-distance.rs](/solutions/edit-distance.rs)              |
+| 583  | 两个字符串的删除操作             | 动态规划 | [delete-operation-for-two-strings.rs](/solutions/delete-operation-for-two-strings.rs) |
 
