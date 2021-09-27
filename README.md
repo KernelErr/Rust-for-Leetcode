@@ -36,4 +36,5 @@
 | 72   | 编辑距离                         | 动态规划 | [edit-distance.rs](/solutions/edit-distance.rs)              |
 | 583  | 两个字符串的删除操作             | 动态规划 | [delete-operation-for-two-strings.rs](/solutions/delete-operation-for-two-strings.rs) |
 | 371  | 两个整数之和                     | 位运算   | [sum-of-two-integers.rs](/solutions/sum-of-two-integers.rs)  |
+| 639  | 解码方法 II                      | 动态规划 | [decode-ways-ii.rs](/solutions/decode-ways-ii.rs)            |
 
