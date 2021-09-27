@@ -1,6 +1,5 @@
 impl Solution {
     pub fn num_decodings(s: String) -> i32 {
-        use std::cmp::max;
         const MOD: i64 = 1_000_000_007;
         let n: usize = s.len();
         let mut dp: Vec<i64> = vec![0; n + 1];
