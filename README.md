@@ -38,4 +38,5 @@
 | 371  | 两个整数之和                     | 位运算       | [sum-of-two-integers.rs](/solutions/sum-of-two-integers.rs)  |
 | 639  | 解码方法 II                      | 动态规划     | [decode-ways-ii.rs](/solutions/decode-ways-ii.rs)            |
 | 437  | 路径总和 III                     | 深度优先搜索 | [path-sum-iii.rs](/solutions/path-sum-iii.rs)                |
+| 517  | 超级洗衣机                       | 贪心         | [super-washing-machines.rs](/solutions/super-washing-machines.rs) |
 
