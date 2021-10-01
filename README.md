@@ -40,4 +40,5 @@
 | 437  | 路径总和 III                     | 深度优先搜索 | [path-sum-iii.rs](/solutions/path-sum-iii.rs)                |
 | 517  | 超级洗衣机                       | 贪心         | [super-washing-machines.rs](/solutions/super-washing-machines.rs) |
 | 223  | 矩形面积                         | 数学         | [rectangle-area.rs](/solutions/rectangle-area.rs)            |
+| 1436 | 旅行终点站                       | 哈希表       | [destination-city.rs](/solutions/destination-city.rs)        |
 
