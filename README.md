@@ -41,4 +41,5 @@
 | 517  | 超级洗衣机                       | 贪心         | [super-washing-machines.rs](/solutions/super-washing-machines.rs) |
 | 223  | 矩形面积                         | 数学         | [rectangle-area.rs](/solutions/rectangle-area.rs)            |
 | 1436 | 旅行终点站                       | 哈希表       | [destination-city.rs](/solutions/destination-city.rs)        |
+| 405  | 数字转换为十六进制数             | 数学         | [convert-a-number-to-hexadecimal.rs](/solutions/convert-a-number-to-hexadecimal.rs) |
 
