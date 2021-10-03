@@ -42,4 +42,5 @@
 | 223  | 矩形面积                         | 数学         | [rectangle-area.rs](/solutions/rectangle-area.rs)            |
 | 1436 | 旅行终点站                       | 哈希表       | [destination-city.rs](/solutions/destination-city.rs)        |
 | 405  | 数字转换为十六进制数             | 数学         | [convert-a-number-to-hexadecimal.rs](/solutions/convert-a-number-to-hexadecimal.rs) |
+| 166  | 分数到小数                       | 哈希表       | [fraction-to-recurring-decimal.rs](/solutions/fraction-to-recurring-decimal.rs) |
 
