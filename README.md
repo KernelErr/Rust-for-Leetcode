@@ -43,4 +43,6 @@
 | 1436 | 旅行终点站                       | 哈希表       | [destination-city.rs](/solutions/destination-city.rs)        |
 | 405  | 数字转换为十六进制数             | 数学         | [convert-a-number-to-hexadecimal.rs](/solutions/convert-a-number-to-hexadecimal.rs) |
 | 166  | 分数到小数                       | 哈希表       | [fraction-to-recurring-decimal.rs](/solutions/fraction-to-recurring-decimal.rs) |
+| 482  | 密钥格式化                       | 字符串       | [license-key-formatting.rs](/solutions/license-key-formatting.rs) |
+| 414  | 第三大的数                       | 大根堆       | [third-maximum-number.rs](/solutions/third-maximum-number.rs) |
 
