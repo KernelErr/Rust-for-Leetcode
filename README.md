@@ -45,4 +45,5 @@
 | 166  | 分数到小数                       | 哈希表       | [fraction-to-recurring-decimal.rs](/solutions/fraction-to-recurring-decimal.rs) |
 | 482  | 密钥格式化                       | 字符串       | [license-key-formatting.rs](/solutions/license-key-formatting.rs) |
 | 414  | 第三大的数                       | 大根堆       | [third-maximum-number.rs](/solutions/third-maximum-number.rs) |
+| 434  | 字符串中的单词数                 | 字符串       | [number-of-segments-in-a-string.rs](/solutions/number-of-segments-in-a-string.rs) |
 
